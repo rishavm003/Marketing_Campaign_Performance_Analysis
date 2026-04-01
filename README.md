@@ -52,11 +52,21 @@ Marketing_Campaign_Performance_Analysis/
 
 ## 📈 Visualizations
 
-> EDA plots generated inside the notebook — all saved in the [`Images/`](./Images) folder.
+> All EDA plots are generated inside the notebook and saved in the [`Images/`](./Images) folder.
 
-![EDA Plots](https://github.com/rishavm003/Marketing_Campaign_Performance_Analysis/raw/main/Images/campaign_type_roi.png)
+### 📊 Channel Performance
+![Channel Performance](https://github.com/rishavm003/Marketing_Campaign_Performance_Analysis/raw/main/Images/channel_performance.png)
 
-> 💡 Open the notebook to interact with all visualizations end-to-end.
+### 💰 ROI by Campaign Type
+![ROI by Campaign Type](https://github.com/rishavm003/Marketing_Campaign_Performance_Analysis/raw/main/Images/roi_by_campaign.png)
+
+### 👥 Customer Segment Analysis
+![Customer Segment Analysis](https://github.com/rishavm003/Marketing_Campaign_Performance_Analysis/raw/main/Images/customer_segment.png)
+
+### 🗓️ Conversion Rate Over Time
+![Conversion Rate Over Time](https://github.com/rishavm003/Marketing_Campaign_Performance_Analysis/raw/main/Images/conversion_rate_time.png)
+
+> 💡 If image filenames differ, update the URLs above to match the actual filenames in your [`Images/`](./Images) folder.
 
 ---
 
